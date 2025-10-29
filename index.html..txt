@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Vanguard Property Investment</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f4f4f4;
+color: #333;
+}
+header {
+background: linear-gradient(90deg, #0a4f9e, #007bff);
+color: white;
+padding: 30px;
+text-align: center;
+}
+h1 { margin: 0; }
+h2 { color: #0a4f9e; }
+.content {
+padding: 20px;
+max-width: 900px;
+margin: auto;
+background: white;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+footer {
+background-color: #0a4f9e;
+color: white;
+text-align: center;
+padding: 15px;
+margin-top: 30px;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Vanguard Property Investment</h1>
+<p>“Invest, grow, and enjoy your financial freedom.”</p>
+</header>
+
+<div class="content">
+<h2>About Us</h2>
+<p>At Vanguard Property Investment, we specialize in the management, sale, and rental of residential and investment properties across Texas. Our goal is to help you build a secure and profitable real estate portfolio.</p>
+
+<h2>Our Services</h2>
+<ul>
+<li>Property Management</li>
+<li>Real Estate Investment</li>
+<li>Property Sales and Rentals</li>
+<li>Consulting and Market Analysis</li>
+</ul>
+
+<h2>Contact</h2>
+<p><strong>Address:</strong> 7901 Research Forest Dr Suite 400, The Woodlands, TX 77382</p>
+<p><strong>Email:</strong> info@vanguardproperty.com</p>
+</div>
+
+<footer>
+&copy; 2025 Vanguard Property Investment — All Rights Reserved
+</footer>
+
+</body>
+</html>
